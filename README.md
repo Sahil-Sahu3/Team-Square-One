@@ -1,6 +1,4 @@
-# VIKRETA VIKAAS — Street Vendor Empowerment Platform
 
-## QUICK START (5 minutes)
 
 ### 1. MongoDB Atlas
 1. Go to mongodb.com/atlas → free account → free M0 cluster
