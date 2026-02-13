@@ -1,4 +1,4 @@
-# 🛒 VendorVoice — Street Vendor Empowerment Platform
+# VIKRETA VIKAAS — Street Vendor Empowerment Platform
 
 ## QUICK START (5 minutes)
 
