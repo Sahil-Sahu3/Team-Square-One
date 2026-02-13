@@ -25,7 +25,7 @@ This project includes:
 - MongoDB
 - Mongoose
 
-## 📂 Project Structure
+### Project Structure
                 ┌──────────────────────────────┐
                 │         STREET VENDOR        │
                 │  (Mobile / Low-end Device)   │
@@ -101,6 +101,7 @@ This project includes:
                    └────────────┬───────────┘
                                 ▼
                     Back to Vendor Dashboard
+
 
 
 
